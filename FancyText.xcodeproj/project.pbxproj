@@ -15,6 +15,9 @@
 		38CC30E721713F3000A63C6B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 38CC30E621713F3000A63C6B /* main.m */; };
 		38CC30F121713F3100A63C6B /* FancyTextTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 38CC30F021713F3100A63C6B /* FancyTextTests.m */; };
 		38CC30FC21713F3100A63C6B /* FancyTextUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 38CC30FB21713F3100A63C6B /* FancyTextUITests.m */; };
+		38CC310C21717A4500A63C6B /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38CC310921717A4400A63C6B /* SugarstyleMillenial-Regular.ttf */; };
+		38CC310D21717A4500A63C6B /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38CC310A21717A4400A63C6B /* Moon Flower.ttf */; };
+		38CC310E21717A4500A63C6B /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = 38CC310B21717A4400A63C6B /* LemonMilk.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		38CC30F721713F3100A63C6B /* FancyTextUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FancyTextUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		38CC30FB21713F3100A63C6B /* FancyTextUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FancyTextUITests.m; sourceTree = "<group>"; };
 		38CC30FD21713F3100A63C6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38CC310921717A4400A63C6B /* SugarstyleMillenial-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SugarstyleMillenial-Regular.ttf"; sourceTree = "<group>"; };
+		38CC310A21717A4400A63C6B /* Moon Flower.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Moon Flower.ttf"; sourceTree = "<group>"; };
+		38CC310B21717A4400A63C6B /* LemonMilk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LemonMilk.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +114,9 @@
 				38CC30DD21713F2C00A63C6B /* Main.storyboard */,
 				38CC30E021713F3000A63C6B /* Assets.xcassets */,
 				38CC30E221713F3000A63C6B /* LaunchScreen.storyboard */,
+				38CC310B21717A4400A63C6B /* LemonMilk.otf */,
+				38CC310A21717A4400A63C6B /* Moon Flower.ttf */,
+				38CC310921717A4400A63C6B /* SugarstyleMillenial-Regular.ttf */,
 				38CC30E521713F3000A63C6B /* Info.plist */,
 				38CC30E621713F3000A63C6B /* main.m */,
 			);
@@ -235,6 +244,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38CC310D21717A4500A63C6B /* Moon Flower.ttf in Resources */,
+				38CC310C21717A4500A63C6B /* SugarstyleMillenial-Regular.ttf in Resources */,
+				38CC310E21717A4500A63C6B /* LemonMilk.otf in Resources */,
 				38CC30E421713F3000A63C6B /* LaunchScreen.storyboard in Resources */,
 				38CC30E121713F3000A63C6B /* Assets.xcassets in Resources */,
 				38CC30DF21713F2C00A63C6B /* Main.storyboard in Resources */,
